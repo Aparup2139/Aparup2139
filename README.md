@@ -12,15 +12,12 @@
 
 ## About Me
 
-```json
-{
-  "role": "IT Undergrad @ IIEST Shibpur",
-  "background": "Former AI Engineering Intern",
-  "focus": ["Vision Transformers", "Agentic RAG", "Medical Imaging"],
-  "currently_exploring": ["LLM Agents", "Multimodal Models"],
-  "open_to": "Internships & Collaborations"
-}
-```
+I'm an **Information Technology undergraduate at IIEST Shibpur** and a former **AI Engineering Intern**, building at the intersection of deep learning and real products.
+
+- 🔭 Working on **Vision Transformers**, **Agentic RAG**, and **medical imaging** (MRI segmentation, tumour detection)
+- 🌱 Currently exploring **LLM agents** and **multimodal models**
+- 💡 I like taking models beyond the notebook — into APIs, apps, and pipelines people can actually use
+- 🤝 Open to **internships, research, and collaborations**
 
 <br/>
 
