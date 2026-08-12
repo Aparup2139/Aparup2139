@@ -1,69 +1,103 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Aparup;Data+Scientist+%26+ML+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aparup2139&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=220&section=header&text=Aparup%20Ghosh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Deep%20Learning%20Engineer&descAlignY=58&descSize=20" alt="header" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=ML+%26+Deep+Learning+Engineer;Vision+Transformers+%26+Agentic+RAG;IT+Undergrad+%40+IIEST+Shibpur;Building+Intelligent+Systems" alt="Typing SVG" />
 
-```python
-aparup = {
-    "role"              : "Data Scientist & ML Engineer",
-    "location"          : "West Bengal, India 🇮🇳",
-    "focus"             : ["Machine Learning", "Deep Learning", "MLOps"],
-    "currently_learning": ["LLMs", "RAG Pipelines", "Kubernetes"],
-    "open_to"           : "Internships & Collaborations 🚀"
+<img src="https://komarev.com/ghpvc/?username=Aparup2139&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+
+</div>
+
+<br/>
+
+## About Me
+
+```json
+{
+  "role": "IT Undergrad @ IIEST Shibpur",
+  "background": "Former AI Engineering Intern",
+  "focus": ["Vision Transformers", "Agentic RAG", "Medical Imaging"],
+  "currently_exploring": ["LLM Agents", "Multimodal Models"],
+  "open_to": "Internships & Collaborations"
 }
 ```
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/Aparup2139/Vision_Transformer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=Vision_Transformer&theme=tokyonight&hide_border=true" alt="Vision_Transformer" /></a></td>
+    <td><a href="https://github.com/Aparup2139/RAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=RAG&theme=tokyonight&hide_border=true" alt="RAG" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=MRI-Image-Segmentation-using-U-Netmer&theme=tokyonight&hide_border=true" alt="MRI-Image-Segmentation-using-U-Netmer" /></a></td>
+    <td><a href="https://github.com/Aparup2139/AIBookie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=AIBookie&theme=tokyonight&hide_border=true" alt="AIBookie" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Aparup2139/WAMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=WAMS&theme=tokyonight&hide_border=true" alt="WAMS" /></a></td>
+    <td><a href="https://github.com/Aparup2139/Finance-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=Finance-Tracker&theme=tokyonight&hide_border=true" alt="Finance-Tracker" /></a></td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="languages" />
+
+**ML & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" alt="ml and data" />
+
+**Web**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,mongodb" alt="web" />
+
+**Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux" alt="tools and infra" />
+
+<br/>
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aparup2139&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aparup2139&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparup2139&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparup2139&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aparup2139&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aparup2139&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
-
----
-
-### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aparup2139/Aparup2139/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aparup2139&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
----
+<br/>
 
-### 🤝 Connect With Me
+## Contribution Snake
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aparup2139/Aparup2139/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aparup2139/Aparup2139/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Aparup2139/Aparup2139/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph" />
+  </picture>
 </p>
+
+<br/>
+
+## Connect
+
+<p align="center">
+  <a href="mailto:aparup.ghosh@neurologicai.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Aparup2139"><img src="https://img.shields.io/badge/GitHub-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:58A6FF&height=120&section=footer" alt="footer" />
