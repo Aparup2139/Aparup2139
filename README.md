@@ -100,4 +100,4 @@
   <a href="https://github.com/Aparup2139"><img src="https://img.shields.io/badge/GitHub-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:58A6FF&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=120&section=footer" alt="footer" />
