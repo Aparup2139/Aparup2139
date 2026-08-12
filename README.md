@@ -26,42 +26,6 @@ I'm an **Information Technology undergraduate at IIEST Shibpur** and a former **
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 <a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer">MRI Image Segmentation</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
-      </p>
-      <p align="center">U-Net-based deep learning pipeline for segmenting brain tumours in MRI scans — medical imaging meets computer vision.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🩺 <a href="https://github.com/Aparup2139/Tumour-detector">Tumour Detector</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
-      </p>
-      <p align="center">AI-powered tumour detection service with a dedicated backend — taking diagnostic models from notebook to app.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎟️ <a href="https://github.com/Aparup2139/AIBookie">AIBookie</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <p align="center">AI-driven event ticket booking platform — conversational discovery and booking for live events.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 <a href="https://github.com/Aparup2139/WAMS">WAMS</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <p align="center">Warehouse Automated Management System — inventory, tracking, and operations automation end to end.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">💰 <a href="https://github.com/Aparup2139/Finance-Tracker">Finance Tracker</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -70,12 +34,48 @@ I'm an **Information Technology undergraduate at IIEST Shibpur** and a former **
       <p align="center">Full-stack personal finance tracker — budgets, expenses, and analytics with a JS frontend and Python backend.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/Aparup2139/DSA">DSA</a></h3>
+      <h3 align="center">🍔 <a href="https://github.com/Aparup2139/Food-Classification-using-CNN">Food Classification using CNN</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Algorithms-2c5364?style=flat-square" alt="Algorithms" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
       </p>
-      <p align="center">Data structures &amp; algorithms in C++ — the problem-solving foundation behind everything else.</p>
+      <p align="center">Convolutional neural network that recognises food categories from images — data prep, training, and evaluation end to end.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer">MRI Image Segmentation</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
+      </p>
+      <p align="center">U-Net-based deep learning pipeline for segmenting brain tumours in MRI scans — medical imaging meets computer vision.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📖 <a href="https://github.com/Aparup2139/Bible_study">Bible Study</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Full_Stack-2c5364?style=flat-square" alt="Full Stack" />
+      </p>
+      <p align="center">Bible study group app — shared reading, discussion, and community features built in TypeScript.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🥗 <a href="https://github.com/Aparup2139/CalO">CalO</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Mobile-58A6FF?style=flat-square" alt="Mobile" />
+      </p>
+      <p align="center">Calorie &amp; nutrition tracking app built in TypeScript — mobile-first health tracking.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖼️ <a href="https://github.com/Aparup2139/Image_classification_using_CNN">Image Classification using CNN</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
+      </p>
+      <p align="center">CNN image classifier covering the fundamentals — architecture design, training loops, and performance evaluation.</p>
     </td>
   </tr>
 </table>
