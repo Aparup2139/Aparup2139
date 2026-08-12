@@ -28,16 +28,16 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/Aparup2139/Vision_Transformer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=Vision_Transformer&theme=tokyonight&hide_border=true" alt="Vision_Transformer" /></a></td>
-    <td><a href="https://github.com/Aparup2139/RAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=RAG&theme=tokyonight&hide_border=true" alt="RAG" /></a></td>
+    <td><a href="https://github.com/Aparup2139/Vision_Transformer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=Vision_Transformer&theme=tokyonight&hide_border=true" alt="Vision_Transformer" /></a></td>
+    <td><a href="https://github.com/Aparup2139/RAG"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=RAG&theme=tokyonight&hide_border=true" alt="RAG" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=MRI-Image-Segmentation-using-U-Netmer&theme=tokyonight&hide_border=true" alt="MRI-Image-Segmentation-using-U-Netmer" /></a></td>
-    <td><a href="https://github.com/Aparup2139/AIBookie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=AIBookie&theme=tokyonight&hide_border=true" alt="AIBookie" /></a></td>
+    <td><a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=MRI-Image-Segmentation-using-U-Netmer&theme=tokyonight&hide_border=true" alt="MRI-Image-Segmentation-using-U-Netmer" /></a></td>
+    <td><a href="https://github.com/Aparup2139/AIBookie"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=AIBookie&theme=tokyonight&hide_border=true" alt="AIBookie" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Aparup2139/WAMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=WAMS&theme=tokyonight&hide_border=true" alt="WAMS" /></a></td>
-    <td><a href="https://github.com/Aparup2139/Finance-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aparup2139&repo=Finance-Tracker&theme=tokyonight&hide_border=true" alt="Finance-Tracker" /></a></td>
+    <td><a href="https://github.com/Aparup2139/WAMS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=WAMS&theme=tokyonight&hide_border=true" alt="WAMS" /></a></td>
+    <td><a href="https://github.com/Aparup2139/Finance-Tracker"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=Finance-Tracker&theme=tokyonight&hide_border=true" alt="Finance-Tracker" /></a></td>
   </tr>
 </table>
 
@@ -66,9 +66,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aparup2139&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aparup2139&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparup2139&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aparup2139&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aparup2139&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparup2139&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph" />
 </p>
 
 <br/>
