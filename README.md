@@ -26,18 +26,60 @@
 
 ## Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td><a href="https://github.com/Aparup2139/Vision_Transformer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=Vision_Transformer&theme=tokyonight&hide_border=true" alt="Vision_Transformer" /></a></td>
-    <td><a href="https://github.com/Aparup2139/RAG"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=RAG&theme=tokyonight&hide_border=true" alt="RAG" /></a></td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer">MRI Image Segmentation</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
+      </p>
+      <p align="center">U-Net-based deep learning pipeline for segmenting brain tumours in MRI scans — medical imaging meets computer vision.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 <a href="https://github.com/Aparup2139/Tumour-detector">Tumour Detector</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Deep_Learning-58A6FF?style=flat-square" alt="Deep Learning" />
+      </p>
+      <p align="center">AI-powered tumour detection service with a dedicated backend — taking diagnostic models from notebook to app.</p>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Aparup2139/MRI-Image-Segmentation-using-U-Netmer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=MRI-Image-Segmentation-using-U-Netmer&theme=tokyonight&hide_border=true" alt="MRI-Image-Segmentation-using-U-Netmer" /></a></td>
-    <td><a href="https://github.com/Aparup2139/AIBookie"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=AIBookie&theme=tokyonight&hide_border=true" alt="AIBookie" /></a></td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎟️ <a href="https://github.com/Aparup2139/AIBookie">AIBookie</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p align="center">AI-driven event ticket booking platform — conversational discovery and booking for live events.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 <a href="https://github.com/Aparup2139/WAMS">WAMS</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p align="center">Warehouse Automated Management System — inventory, tracking, and operations automation end to end.</p>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Aparup2139/WAMS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=WAMS&theme=tokyonight&hide_border=true" alt="WAMS" /></a></td>
-    <td><a href="https://github.com/Aparup2139/Finance-Tracker"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aparup2139&repo=Finance-Tracker&theme=tokyonight&hide_border=true" alt="Finance-Tracker" /></a></td>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 <a href="https://github.com/Aparup2139/Finance-Tracker">Finance Tracker</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p align="center">Full-stack personal finance tracker — budgets, expenses, and analytics with a JS frontend and Python backend.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/Aparup2139/DSA">DSA</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Algorithms-2c5364?style=flat-square" alt="Algorithms" />
+      </p>
+      <p align="center">Data structures &amp; algorithms in C++ — the problem-solving foundation behind everything else.</p>
+    </td>
   </tr>
 </table>
 
@@ -70,9 +112,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aparup2139&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aparup2139&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/Aparup2139/Aparup2139/main/github-metrics.svg" width="95%" alt="GitHub metrics" />
 </p>
 
 <p align="center">
