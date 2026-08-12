@@ -51,7 +51,11 @@
 
 **ML & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" alt="ml and data" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ml and data" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
 **Web**
 
